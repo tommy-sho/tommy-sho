@@ -1,11 +1,6 @@
-
-
 <p align="left">
     <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-sho&layout=compact&theme=dracula" />
-    </a>
-    <a href="https://github.com/tommy-sho/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tommy-sho&theme=radical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-sho&layout=compact" />
     </a>
 </p>
 
